@@ -2,4 +2,4 @@
 
 This repository is for general information about transplantation immunology at MUMC.
 
-Check the wiki for information on [contributing to git](Contributing-to-Github).  
+Check the wiki for information on [contributing to git](wiki/Contributing-to-Github).  
